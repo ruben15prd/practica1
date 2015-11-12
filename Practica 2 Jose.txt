@@ -1,8 +1,8 @@
 BL BLA BLA BLA BLA BLA
-<<<<<<< HEAD
+
 
 
 JIU JIU JIU JIU JIU JIU
-=======
+
 blee blee blee
->>>>>>> 5ebad67488cfd4313e6260b433c989f8f4e08e29
+
